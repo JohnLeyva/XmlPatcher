@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlPatcher", "XmlPatcher\XmlPatcher.csproj", "{EEE1752F-F451-42B7-A49F-818DAA3E49CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE1752F-F451-42B7-A49F-818DAA3E49CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE1752F-F451-42B7-A49F-818DAA3E49CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE1752F-F451-42B7-A49F-818DAA3E49CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE1752F-F451-42B7-A49F-818DAA3E49CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4657ED8-057C-4B24-97D0-9D4086852281}
+	EndGlobalSection
+EndGlobal
